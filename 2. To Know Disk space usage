@@ -1,0 +1,5 @@
+df -h	# Show free and used space on mounted filesystems [we can use also df -kh]
+df -i	# Show free and used inodes on mounted filesystems
+fdisk -l	# Display disks partitions sizes and types
+du -ah	# Display disk usage for all files and directories in human readable format
+du -sh	# Display total disk usage off the current directory
